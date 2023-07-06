@@ -7,3 +7,9 @@ h1 {
   color: antiquewhite;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+
+.summary {
+  border: 1px solid wheat;
+  padding: 10px 20px;
+  margin: 2px;
+}
